@@ -1,0 +1,16 @@
+fly.toml
+Dockerfile
+.dockerignore
+
+intermediate
+**/intermediate
+
+node_modules
+**/node_modules
+
+.turbo
+**/.turbo
+
+.next
+**/.next
+.git
